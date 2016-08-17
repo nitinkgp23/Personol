@@ -1,6 +1,6 @@
 This is a successfully tested plugin, to autocomplete the brackets and quotes, just like sublime text. To use this,
 
-copy plugin/auto-pairs.vim    to    ~/.vim/plugin
+`copy plugin/auto-pairs.vim`    to    `~/.vim/plugin`
 
 This was downloaded by me on 17-08-2016 from 
 
