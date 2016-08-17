@@ -52,7 +52,7 @@ endif
 "set hidden		" Hide buffers when they are abandoned
 "set mouse=a		" Enable mouse usage (all modes)
 
-set number     "Added by nitin"
+set number     
 
 "The following lines  were added by nitin in order to achieve the bracket-autocompletion feature, after reading an answer on stack overflow."
 "The link for the answer is   http://stackoverflow.com/questions/4521818/automatically-insert-a-matching-brace-in-vim"
