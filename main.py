@@ -6,14 +6,14 @@ from mechanize import Browser
 
 '''
    Currently supports:  #star-movies
-					    #sony-max
-					    #movies-now
-					    #romedy-now
-						#movies-ok
-						#sony-pix
-						#hbo
-						#filmy
-						#star-gold
+			#sony-max
+			#movies-now
+			#romedy-now
+			#movies-ok
+			#sony-pix
+			#hbo
+			#filmy
+			#star-gold
 '''
 
 web_url = "http://tvinfo.in/"
@@ -71,4 +71,5 @@ def main():
 
 if __name__ == '__main__':
 	main()
+
 
