@@ -9,3 +9,4 @@
 - [ ] Try Bluestacks on windows
 - [ ] Go through HHFH repo [here] (https://github.com/HiT-Hi-FiT-Hai)
 - [ ] See Raspberry Pi
+- [ ] Contribute on J A R V I S on Messenger
