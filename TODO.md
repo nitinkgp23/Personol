@@ -4,3 +4,5 @@
 - [ ] Geolocation plot of Facebook friends.
 - [ ] [Project list] (http://24pullrequests.com/projects)
 - [ ] [One more] (http://up-for-grabs.net/#/tags/python)
+- [ ] Install virtual box, Run Genymotion
+- [ ] Read [this] (https://www.quora.com/As-a-beginner-what-are-some-cool-programs-I-can-make-using-Python)
