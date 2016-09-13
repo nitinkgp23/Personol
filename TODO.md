@@ -1,4 +1,4 @@
-- [ ] 12th October preperation
+- [ ] 12th October preparation
 - [ ] Automatically posting thank you on bdday posts using selenium
 - [ ] Automatically filling feedback form
 - [ ] Geolocation plot of Facebook friends.
