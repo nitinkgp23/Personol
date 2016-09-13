@@ -1,0 +1,6 @@
+- [ ] 12th October preperation
+- [ ] Automatically posting thank you on bdday posts using selenium
+- [ ] Automatically filling feedback form
+- [ ] Geolocation plot of Facebook friends.
+- [ ] [Project list] (http://24pullrequests.com/projects)
+- [ ] [One more] (http://up-for-grabs.net/#/tags/python)
