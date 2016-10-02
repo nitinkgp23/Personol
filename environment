@@ -8,4 +8,3 @@ HTTPS_PROXY="http://10.3.100.207:8080/"
 FTP_PROXY="http://10.3.100.207:8080/"
 NO_PROXY="localhost,127.0.0.1,localaddress,.localdomain.com"
 KDE_NO_IPV6=True
-
