@@ -1,0 +1,12 @@
+- [ ] 12th October preparation
+- [ ] Automatically posting thank you on bdday posts using selenium
+- [ ] Automatically filling feedback form
+- [ ] Geolocation plot of Facebook friends.
+- [ ] [Project list] (http://24pullrequests.com/projects)
+- [ ] [One more] (http://up-for-grabs.net/#/tags/python)
+- [ ] Install virtual box, Run Genymotion [See] (https://www.virtualbox.org/wiki/Linux_Downloads)
+- [ ] Read [this] (https://www.quora.com/As-a-beginner-what-are-some-cool-programs-I-can-make-using-Python)
+- [ ] Try Bluestacks on windows
+- [ ] Go through HHFH repo [here] (https://github.com/HiT-Hi-FiT-Hai)
+- [ ] See Raspberry Pi
+- [ ] Contribute on J A R V I S on Messenger
