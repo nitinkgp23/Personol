@@ -4,7 +4,8 @@ Deadline (16th October)
 - [ ] Clean Code
 - [ ] Machine Learning (Videos)
 - [ ] Make a basic messenger bot
-- [ ] Improve commit history writer
+- [x] Improve commit history writer
+- [x] Blog Post written
 - [ ] Basics of C++
 - [ ] Start OpenCV
 
