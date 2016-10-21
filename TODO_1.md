@@ -1,6 +1,6 @@
 Deadline (16th October)
 
-- [ ] Git Altassian Tutorials
+- [x] Git Altassian Tutorials
 - [ ] Clean Code
 - [ ] Machine Learning (Videos)
 - [ ] Make a basic messenger bot
